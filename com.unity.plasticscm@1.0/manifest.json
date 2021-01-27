@@ -1,0 +1,731 @@
+{
+  "sitemap": {
+    "fileOptions": {},
+    "priority": 0.0,
+    "lastmod": "0001-01-01T00:00:00"
+  },
+  "homepages": [],
+  "source_base_path": "c:/temp/com.unity.plasticscm@1.0",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_10.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_10.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_11.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_11.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_12.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_12.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_5.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_6.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_7.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_8.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/branch/branch_9.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/branch/branch_9.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/clone/clone_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/clone/clone_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/clone/clone_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/clone/clone_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/clone/clone_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/clone/clone_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_5.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_6.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_7.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/concept/concept_8.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/concept/concept_8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/pull/pull_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/pull/pull_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/pull/pull_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/pull/pull_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/pull/pull_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/pull/pull_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/pull/pull_4.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/pull/pull_4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/push/push_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/push/push_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/push/push_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/push/push_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/repo/repo_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/repo/repo_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/repo/repo_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/repo/repo_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/repo/repo_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/repo/repo_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/start/start_1.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/start/start_1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/start/start_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/start/start_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/Images/start/start_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "manual/images/start/start_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/TableOfContents.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/TableOfContents.html",
+          "hash": "FrCTX/PLm1yf1jmIw2I7eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/branch.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/branch.html",
+          "hash": "asn8L95h1FcxEax/ywaF3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/clone.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/clone.html",
+          "hash": "jTfSYBboY331tKlosaHJ7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/concept.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/concept.html",
+          "hash": "2NuD2RG6BUG9m4jdONvm+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/index.html",
+          "hash": "NvPBN47laaepwwMbyvjKag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/migrate.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/migrate.html",
+          "hash": "7SEc/oT+UquB/BE+g4srOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/pull.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/pull.html",
+          "hash": "nbo10MGRpVNs+E3ZypeacQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/push.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/push.html",
+          "hash": "GRYCywpWHdmO7xJe3dp6Ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/repo.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/repo.html",
+          "hash": "mwpTs1Rx1VEFzfz2LJx/Ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/start.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/start.html",
+          "hash": "sEur7TxWtqAruGrfXtEusg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Packages/com.unity.plasticscm/Documentation~/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "rFztvwi+2B39lf9bqoJMJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Packages/com.unity.plasticscm/api/TableOfContents.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/TableOfContents.html",
+          "hash": "P40/fibAhMBNUbiQ10Jztw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "Packages/com.unity.plasticscm/api/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "uB8UzZXS5DaGXfCFM8obQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "EUCImjsGNQ/u02CLlajFyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/CHANGELOG.html",
+          "hash": "Zf/gekZmMl9S/D8a6iJIIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "changelog/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/toc.html",
+          "hash": "eS9RNjydbO/yc30GLWRkCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "oWH9Feth9RBACm1j++l8kQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/LICENSE.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/LICENSE.html",
+          "hash": "lKMYoSzy5nNBprDoubvmZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/Third Party Notices.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/Third Party Notices.html",
+          "hash": "ax6ucDHOjNm9dCiL1o4PBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "u2XHvIKv7/8e7mvGF7IGVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "license/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "license/toc.html",
+          "hash": "DYhCy1M2COMgXYfwU5diYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "KwmlBeE5jtHTEfHHn26dsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 18,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

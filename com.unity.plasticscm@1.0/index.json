@@ -1,0 +1,87 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "This is the documentation for the Scripting APIs of this package."
+  },
+  "api/TableOfContents.html": {
+    "href": "api/TableOfContents.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "index(index.md)"
+  },
+  "changelog/CHANGELOG.html": {
+    "href": "changelog/CHANGELOG.html",
+    "title": "Changelog | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "Changelog [1.0.0] - 2021-01-21 This is the first release of China Unity PlasticSCM Solution ."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Home Page. | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "Home Page. This is the home page for this package."
+  },
+  "license/index.html": {
+    "href": "license/index.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "window.location.replace('Third%20Party%20Notices.html')"
+  },
+  "license/LICENSE.html": {
+    "href": "license/LICENSE.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "Unity Companion License (\" License \") Legal Terms Please refer to https://unity.cn/legal Privacy Policy Please refer to https://unity.cn/legal/privacy-policy"
+  },
+  "license/Third Party Notices.html": {
+    "href": "license/Third Party Notices.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "This package contains third-party software components governed by the license(s) indicated below: Component Name: DocFx License License Type: \"MIT\" DocFx License Component Name: Mono License License Type: \"MIT X11\" Mono License Component Name: support/minizip BSD License License Type: \"BSD\" Component Name: mono/utils/memcheck.h BSD License License Type: \"BSD\" Component Name: mono/utils/freebsd-dwarf.h, freebsd-elf_common.h, freebsd-elf64.h freebsd-elf32.h BSD License License Type: \"BSD\" Component Name: mono/utils/bsearch.c BSD License License Type: \"BSD\" Component Name: mono/metadata/w32file-unix-glob.c, w32file-unix-glob.h BSD License License Type: \"BSD\""
+  },
+  "manual/branch.html": {
+    "href": "manual/branch.html",
+    "title": "7，分支Branch与历史版本管理 | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "7，分支Branch与历史版本管理 分支与版本历史的管理正是Unity PlasticSCM独一无二的优势所在，结合可视化界面将让您得心应手。 点开PlasticSCM分支视图 确认提交的修改 创建分支 点击右键，从本次的修改创建一个分支 查看分支 这个时候可以看到我们的Workspace位于分支上了，意味着我们接下来回到Unity中所做的工作将存放在我们常见的分支上 确认本地修改工作 当我们在分支上做了其他更多的工作后，我们希望把这些新的工作成果合并回主线中 选择合并位置 这个时候我们在Main分支主线上点击右键，将Workspace移动回来 合并分支 然后选择合并回主线的分支节点 提交合并 排除冲突，对比并确认正常的文件的差异，点击Apply Changes 准备Checkin 可以看到处于Pending状态，点击Checkin pending changes Checkin 输入Comment，点击Checkin 完成分支的合并"
+  },
+  "manual/clone.html": {
+    "href": "manual/clone.html",
+    "title": "5，如何Clone （克隆远程仓库项目到本地Workspace）？ | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "5，如何Clone （克隆远程仓库项目到本地Workspace）？ 当需要参与团队在组织中创建的新项目，我们需要把项目克隆到本地工作区进行工作。 在Hub中选择克隆项目 首先打开Unity Hub项目列表，选择PlasticSCM 标签，查看远程仓库中的项目 进行克隆 点击云按钮，从远程仓库克隆到本地工作区（Workspace）路径 查看克隆项目 这时候你会发现该项目已经被克隆到项目列表中"
+  },
+  "manual/concept.html": {
+    "href": "manual/concept.html",
+    "title": "2，PlasticSCM的基础概念 | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "2，PlasticSCM的基础概念 这部分的目的是帮助您了解Plastic SCM中的概念的术语。 由于这些术语将在后续内容中提及，因此理解它们的含义也很有必要。 以下是您需要了解的一些概念： Organization 组织 相当于同一个公司或同一个项目小组，作为团队协作的组织。（⚠️请注意！一个Unity账户只能对应创建一个PlasticSCM默认组织，并作为该组织管理员添加其他成员。但同一个Unity账户作为被添加成员，则可以加入多个由他人所创建的PlasticSCM组织！） Repository 远程仓库 云存储空间。 远程仓库内通常将只会保持只有一个项目 Workspace 本地工作区 存储到本地进行工作的资源所在目录 Items 项目 工作区的内容-文件和目录 Branch 分支 仓库中当前正在使用的位置（⚠️请注意！目前流程默认为Main！）您可以在PlasticSCM客户端另外创建新分支，然后切换到它之上，对它们的内容进行比较、合并、复制，等等操作 Checkin 签入 您所完成并提交的修改 Changeset 变更集 您所创建的签入"
+  },
+  "manual/index.html": {
+    "href": "manual/index.html",
+    "title": "PlasticSCM | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "PlasticSCM Unity项目版本控制系统（中文操作指南） PlasticSCM是一套无缝整合的Unity开发工作流，让您直接在Unity Hub对托管项目进行高效管理，从Unity编辑器使用版本控制系统（VCS）功能，轻松与团队协作！ 在本操作指南中，您将轻松了解到以下内容： 如何轻松启用Plastic SCM协助您与团队的工作。 如何为PlasticSCM进行基本设置。 了解Plastic SCM的基本概念。 分步骤介绍使用PlasticSCM的基本流程。 如何创建新的仓库并提交第一个Commit（Checkin）。 如何Clone 克隆远程仓库项目到本地。 如何 Push/ Pull。将代码、资源或任何修改进行远程仓库与本地的同步。 如何回退到历史版本。 以及如何迁入其他现有项目。 相信您已经准备好启用PlasticSCM了，现在就让我们开始使用中国Unity提供的 一体化项目托管解决方案 以及 50GB 超大免费空间 吧！ 以下为本文档开源地址，欢迎社区伙伴反馈意见： https://github.com/unity-cn/plasticscm-cn-guide 更详尽的PlasticSCM文档手册，请参考以下链接: https://www.plasticscm.com/documentation"
+  },
+  "manual/migrate.html": {
+    "href": "manual/migrate.html",
+    "title": "8，迁入其他现有项目 | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "8，迁入其他现有项目 Git / Perforce / Visual Source Safe / Clearcase / TFS / Subversion https://www.plasticscm.com/movetoplastic"
+  },
+  "manual/pull.html": {
+    "href": "manual/pull.html",
+    "title": "6，如何Pull（拉取团队成员的修改）？ | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "6，如何Pull（拉取团队成员的修改）？ 您将可以实时看到团队成员对远程仓库项目作出的修改，并进行同步。 拉取一个更新 点击Update 查看并对比所修改的内容 通过可视化界面轻松查看对比 确认并更新 点击Update到您的Workspace（工作区）"
+  },
+  "manual/push.html": {
+    "href": "manual/push.html",
+    "title": "4，如何Push（提交一个Checkin）？ | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "4，如何Push（提交一个Checkin）？ 提交一个Checkin（Commit） 当项目准备提交的时候，保存所做的修改，它们会出现在Checkin item窗口中，在Pending changes 窗口添加一个描述，勾选提交的Items，点击Checkin changes 完成第一次的Checkin 查看您的提交 提交后您将可以在Changesets中可以看到您的提交历史"
+  },
+  "manual/repo.html": {
+    "href": "manual/repo.html",
+    "title": "3，如何创建Repository仓库？ | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "3，如何创建Repository仓库？ 首先，我们来创建一个空的仓库。 登录Unity Hub 自动创建 选择用2019.4以上版本新建项目，启用 PlasticSCM，选择默认组织，创建（首次启用将需要安装PlasticSCM client） 完成创建（引擎视图） 将自动启动Unity 引擎并打开项目，您将看到远程仓库以及分支已经自动在项目中完成创建。 同时您也将看到PlasticSCM窗口已经自动将项目资源作为Pending changes Items（待提交内容）。 完成创建（Hub视图） 您同时可以在Unity Hub的项目列表中看到刚才新建的项目，已经标识为已推送远程仓库"
+  },
+  "manual/start.html": {
+    "href": "manual/start.html",
+    "title": "1，启用并配置 PlasticSCM | China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "1，启用并配置 PlasticSCM 启用Plastic SCM是一个异常简单的过程。 步骤如下： 1，登录Unity Hub 登录Unity Hub您将看到PlasticSCM已经整合到您的项目管理列表中。 2，启用Plastic SCM 启用PlasticSCM的方式包括以下2种： 在新建项目的时候勾选启用PlasticSCM； 为现有项目选择启用PlasticSCM； 3, 配置 PlasticSCM Plastic SCM配置过程同样非常容易： 首次启用Plastic SCM时，Unity Hub将自动为您显示您自己创建过的Unity组织（Organization）以及您加入的其他Unity组织，它们将作为您的项目仓库所在的空间。 Unity Hub将请您选择您所在的任意一个Unity 组织（包括自己创建的，以及作为成员加入的）作为您的PlasticSCM默认组织。（⚠️请注意！一个Unity账户只能对应创建一个PlasticSCM默认组织。） 选定PlasticSCM默认组织，并对项目点击确认后，Unity Hub将自动将您的项目同步到您的PlasticSCM空间。"
+  },
+  "manual/TableOfContents.html": {
+    "href": "manual/TableOfContents.html",
+    "title": "| China Unity PlasticSCM Solution | 1.0.0",
+    "keywords": "PlasticSCM-项目版本控制系统 1，启用并配置 PlasticSCM 2，PlasticSCM的基础概念 3，如何创建Repo？ 4，如何Push？ 5，如何Clone？ 6，如何Pull？ 7，分支与历史版本管理 8，迁入其他现有项目"
+  }
+}
